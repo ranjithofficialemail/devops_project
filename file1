@@ -6,3 +6,9 @@ tmpfs           5.0M     0  5.0M   0% /run/lock
 /dev/xvda16     881M  133M  687M  17% /boot
 /dev/xvda15     105M  6.1M   99M   6% /boot/efi
 tmpfs            96M   12K   96M   1% /run/user/1000
+total 16
+-rw-rw-r-- 1 ubuntu ubuntu  27 Jul 10 02:31 README.md
+-rw-rw-r-- 1 ubuntu ubuntu   0 Jul 10 02:37 file2
+-rw-rw-r-- 1 ubuntu ubuntu   7 Jul 10 02:55 secrets_file.txt
+-rw-rw-r-- 1 ubuntu ubuntu 372 Jul 10 02:55 config_file.txt
+-rw-rw-r-- 1 ubuntu ubuntu 372 Jul 10 03:19 file1
